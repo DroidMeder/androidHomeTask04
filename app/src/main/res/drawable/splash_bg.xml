@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" android:opacity="opaque">
+
+    <item android:drawable="@color/white"
+        android:top="0dp"
+        android:bottom="0dp"
+        android:left="0dp"
+        android:right="0dp"/>
+
+    <item android:drawable="@drawable/owl_with_calculator"
+        android:width="300dp"
+        android:height="300dp"
+        android:gravity="center"/>
+</layer-list>
